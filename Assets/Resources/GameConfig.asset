@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33cdd4ad5f105bc4fa4187f9df505674, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  MapGridWidth: 100
+  MapGridHeight: 100
+  Cell: {fileID: 6615910063189652242, guid: 5de3b85f15a944545a8bb03798e1c9f4, type: 3}
+  Pool: {fileID: 8083583914371095536, guid: 5aaada4375363ee4bb74bd34f6eddd51, type: 3}
+  BuildingTemplate: {fileID: 6433850267492192932, guid: a366816851556a0459076570754466b9, type: 3}
+  Building: {fileID: 8272792059329085670, guid: 11e1129c2828b754a8352e0ee9582e19, type: 3}
+  Buildings:
+  - {fileID: 11400000, guid: d4d44a58303f080428805143979afaaa, type: 2}
+  - {fileID: 11400000, guid: 7dfc125659713c04c8488feb16db086d, type: 2}
+  SoldierUnit: {fileID: 114930066954694020, guid: 4ef798119e6ed594b9b285b6b6fec9a5, type: 3}
+  Target: {fileID: 6153743949037867514, guid: 76f63f7cf27c48e4084a1b66655ad828, type: 3}
